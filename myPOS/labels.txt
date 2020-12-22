@@ -1,0 +1,15 @@
+abb
+adj
+adv
+conj
+fw
+int
+n
+num
+part
+ppm
+pron
+punc
+sb
+tn
+v
